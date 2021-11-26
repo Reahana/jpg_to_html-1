@@ -15,8 +15,11 @@
     height: 600px;
 }
 
-.h-180{
+.h-50{
     height: 50px;
+}
+.h-110{
+   height: 110px;
 }
 footer{
     background-color: #0E2034;
@@ -50,14 +53,7 @@ footer{
 .border-0{
     border: 0;
 }
-.client-img img{
-    border-radius: 150%;
-    width: 50px;
-   
-}
-.client-img img:first-child{
-    margin-left: 500px;
-}
+
 .m-550{
     margin-left: 550px;
 }
