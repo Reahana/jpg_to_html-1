@@ -1,4 +1,4 @@
-# jpg_to_html-1
+# jpg_to_html_with_Bootstrap
 jpg to html 
 
 template to website 
